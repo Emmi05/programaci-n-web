@@ -103,8 +103,8 @@
 
     <form method="post">
         <h1>Formulario de Registro</h1>  
-        <input type="text" name="ID" placeholder="RolID">
-        <input type="text" name="Rol" placeholder="RolNombre">
+        <input type="text" name="ID" placeholder="RolID"><br>
+        <br><input type="text" name="Rol" placeholder="RolNombre">
         <input type="submit" name="Registrar">
     </form>
 
