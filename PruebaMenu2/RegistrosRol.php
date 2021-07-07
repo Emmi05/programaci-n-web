@@ -1,6 +1,8 @@
+RECUERDEN QUE PONGAN LOS DATOS DE SU BASE DE DATOS, Y EN LA LINEA 135 Y 136 CAMBIENLE
+
 <?php
 
-$conex=mysqli_connect("localhost:3307","root","--root123","escuela"); 
+$conex=mysqli_connect("localhost","root","","escuela");  
 
 ?>
 
